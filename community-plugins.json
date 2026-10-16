@@ -62718,5 +62718,12 @@
     "author": "Atif Ahmed",
     "description": "Share the note you are reading, the section you are in and the text you select with Claude Code. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "signioratif/Obsidian-CC-connector"
+  },
+  {
+    "id": "weinc-publish",
+    "name": "WeInc Publish",
+    "author": "WeInc",
+    "description": "Turn the current note into a website. Opens the WeInc builder with your note as the starting brief, so you can review it and press Send.",
+    "repo": "umairalisadaqat/weinc-obsidian-publish"
   }
 ]
